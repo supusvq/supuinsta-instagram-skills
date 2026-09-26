@@ -1,0 +1,22 @@
+{
+  "name": "instagram-skills",
+  "description": "12 Claude Code and Codex skills for Instagram marketing in 2026: post & caption writing, reel scripting (audio/visual/text-overlay), carousel building (slide-by-slide 4:5), daily story strategy, comment drafting, reply handler, hook extractor, humanizer (anti-AI tone filter + audit), profile bio optimizer, content calendar planner, repurposer, and creator interviewer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Juan Gallardo & Serge Bulaev",
+    "url": "https://github.com/sergebulaev"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sergebulaev/instagram-skills",
+  "keywords": [
+    "instagram",
+    "reels",
+    "carousels",
+    "marketing",
+    "social-media",
+    "creator",
+    "content-strategy",
+    "claude-skills",
+    "viral"
+  ]
+}
