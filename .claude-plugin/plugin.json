@@ -1,15 +1,18 @@
 {
-  "name": "instagram-skills",
-  "description": "12 Claude Code and Codex skills for Instagram marketing in 2026: post & caption writing, reel scripting (audio/visual/text-overlay), carousel building (slide-by-slide 4:5), daily story strategy, comment drafting, reply handler, hook extractor, humanizer (anti-AI tone filter + audit), profile bio optimizer, content calendar planner, repurposer, and creator interviewer. Created by Juan Gallardo (SupuDigital).",
+  "name": "supuinsta",
+  "description": "SupuInsta: 12 Claude Code and Codex skills for Instagram marketing in 2026: post & caption writing, reel scripting (audio/visual/text-overlay), carousel building (slide-by-slide 4:5), daily story strategy, comment drafting, reply handler, hook extractor, humanizer (anti-AI tone filter + audit), profile bio optimizer, content calendar planner, repurposer, and creator interviewer. Created by Juan Gallardo (SupuDigital).",
   "version": "1.0.0",
   "author": {
     "name": "Juan Gallardo (SupuDigital)",
     "url": "https://github.com/supusvq"
   },
   "license": "MIT",
-  "homepage": "https://github.com/supusvq/instagram-skills",
+  "homepage": "https://github.com/supusvq/supuinsta-instagram-skills",
   "keywords": [
     "instagram",
+    "instagram-skills",
+    "supuinsta",
+    "supudigital",
     "reels",
     "carousels",
     "marketing",

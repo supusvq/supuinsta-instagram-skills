@@ -1,25 +1,26 @@
-# 📸 Instagram Skills (2026 Edition)
+# 📸 SupuInsta — Instagram Skills (2026 Edition)
 ### *La suite de 12 habilidades de IA para dominar Instagram sin sonar a robot*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Claude%20Code%20%7C%20Antigravity%20%7C%20Codex-orange.svg)](#instalación)
-[![Privacy](https://img.shields.io/badge/Privacidad-100%25%20Local%20%26%20Seguro-green.svg)](#seguridad-y-privacidad)
+[![Platform](https://img.shields.io/badge/Platform-Claude%20Code%20%7C%20Antigravity%20%7C%20Codex-orange.svg)](#-instalación-en-1-minuto)
+[![Privacy](https://img.shields.io/badge/Privacidad-100%25%20Local%20%26%20Seguro-green.svg)](#-seguridad-y-privacidad-garantizada)
+[![Instagram](https://img.shields.io/badge/Instagram-%40supudigital-E4405F.svg)](https://www.instagram.com/supudigital/)
 [![Author](https://img.shields.io/badge/Autor-Juan%20Gallardo%20%28SupuDigital%29-purple.svg)](https://github.com/supusvq)
 
 > **«La IA puede ayudarte a redactar. Tu voz y tu criterio no se automatizan.»**  
-> Diseñado por **Juan Gallardo** ([SupuDigital](https://github.com/supusvq)) para creadores, profesionales y marcas que quieren publicar contenido de alto impacto en Instagram sin perder tiempo ni sonar a máquina genérica.
+> Diseñado por **Juan Gallardo** ([SupuDigital](https://github.com/supusvq) | [@supudigital](https://www.instagram.com/supudigital/)) para creadores, profesionales y marcas que quieren publicar contenido de alto impacto en Instagram sin perder tiempo ni sonar a máquina genérica.
 
 ---
 
-## ⚡ ¿Por qué Instagram Skills y no ChatGPT normal?
+## ⚡ ¿Por qué SupuInsta y no ChatGPT normal?
 
-| Característica | ChatGPT tradicional | Instagram Skills (Juan Gallardo) |
+| Característica | ChatGPT tradicional | SupuInsta (Juan Gallardo) |
 |---|---|---|
 | **Tono de voz** | Clichés («¡Lleva tu negocio al siguiente nivel! 🚀🔥») | **Anti-IA Humanizer:** Lenguaje humano, directo y natural |
 | **Formato de Reels** | Párrafos de texto genéricos | **Guión en 3 columnas:** Segundo, Acción Visual y Audio |
 | **Carruseles** | Ideas sueltas sin estructura | **Arquitectura 4:5:** Gancho, Segunda oportunidad y CTA |
 | **Algoritmo 2026** | Basado en likes (métrica obsoleta) | **Optimizado para Compartidos por DM y Guardados** |
-| **Facilidad de uso** | Tienes que inventar un megaproMPT | **Modo Guiado:** Te hace preguntas sencillas con opciones (A, B, C) |
+| **Facilidad de uso** | Tienes que inventar un megaproMPT | **Modo Guiado:** Te hace preguntas sencillas con opciones (1, 2, 3) |
 
 ---
 
@@ -50,8 +51,7 @@ Este pack incluye 12 agentes especializados que colaboran entre sí:
 Abre tu terminal y ejecuta este comando para instalarlo globalmente:
 
 ```bash
-# 1. Clona el repositorio en tus skills de Claude
-git clone https://github.com/supusvq/instagram-skills.git ~/.claude/skills/instagram-skills
+git clone https://github.com/supusvq/supuinsta-instagram-skills.git ~/.claude/skills/supuinsta
 ```
 *¡Listo! La próxima vez que abras Claude Code ya tendrás todas las habilidades cargadas automáticamente.*
 
@@ -111,9 +111,9 @@ Si además de redactar quieres automatizar la publicación o conexión con herra
 ## 👨‍💻 Autor y Créditos
 
 Creado con dedicación por **Juan Gallardo** ([SupuDigital](https://github.com/supusvq)).
-- **Web & Servicios:** [SupuDigital](https://github.com/supusvq)
-- **LinkedIn:** [Juan Gallardo](https://www.linkedin.com)
+- **Instagram:** [@supudigital](https://www.instagram.com/supudigital/)
 - **GitHub:** [@supusvq](https://github.com/supusvq)
+- **Familia Supu:** `supucontrol` · `supuwoo` · `supuwista` · `supuhub` · `supuinsta`
 
 Basado en la arquitectura original de flujos de trabajo de *Serge Bulaev* y adaptado, ampliado y optimizado para el ecosistema de Instagram y creadores hispanohablantes por Juan Gallardo.
 
