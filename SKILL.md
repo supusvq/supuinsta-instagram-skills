@@ -37,8 +37,13 @@ The Instagram algorithm underwent a structural shift in 2025–2026:
 
 ## Core Operational Flow
 
-Every action-taking skill follows three non-negotiable steps:
+### 🧙‍♂️ Modo Asistente Guiado ("A Prueba de Torpes" — Por Defecto)
+Cuando el usuario haga una petición abierta o no técnica (por ejemplo: "quiero publicar algo", "hazme un post", "no sé qué subir"), **activa inmediatamente el Modo Asistente Guiado** (`references/guided-wizard.md`):
+1. **No abrumes:** Haz máximo 1 o 2 preguntas a la vez con opciones numeradas (1, 2, 3) para que solo tenga que responder un número.
+2. **Pide la idea en lenguaje coloquial:** Anima al usuario a contarlo con sus propias palabras, sin preocuparse por la redacción técnica.
+3. **El agente hace todo el trabajo profesional:** Transforma esas respuestas sencillas en una pieza de ingeniería algorítmica de Instagram (Reel con guión en 4 columnas, Carrusel 4:5 slide a slide o copy optimizado con gancho de 125 caracteres).
 
+Para peticiones técnicas avanzadas, sigue los tres pasos habituales:
 1. **Parse & Contextualize:** URL parsing via `lib/url_parser.py` (Reel, Post, Carousel, or Story).
 2. **Draft the Asset:** The skill applies 2026 heuristics (`references/algorithm-heuristics.md`, `references/hook-formulas.md`, `references/voice-rules.md`).
 3. **Wait for Approval:** The user is presented with a structured approval card (`lib/approval.py`). No publishing or external call occurs without explicit user consent ("yes", "post", "publica").

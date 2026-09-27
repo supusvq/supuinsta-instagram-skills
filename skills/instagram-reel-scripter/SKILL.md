@@ -7,10 +7,11 @@ description: "Script high-retention 15-45 second vertical Instagram Reels (9:16)
 
 Generates end-to-end production scripts for vertical video (9:16), engineered to maximize completion rate, re-watch loops, and direct DM shares.
 
-## When to Use
-- User wants to film a talking-head, screen recording, or b-roll Reel.
-- User needs a strong 3-second hook (visual + audio + on-screen text).
-- User wants to ensure the video works seamlessly with sound OFF.
+## Flujo Guiado para Principiantes ("A prueba de torpes")
+Si el usuario simplemente dice "quiero hacer un reel" o "hazme un guión de vídeo", no le pidas tecnicismos. Pregúntale solo:
+1. *"¿Qué truco, historia o lección quieres enseñar hoy? Cuéntamelo con tus palabras como si fuera una nota de voz."*
+2. *"¿Cómo te gustaría grabarlo? (1: Tú hablando a cámara / 2: Grabando la pantalla del ordenador / 3: Vídeo de fondo con texto encima)"*
+Con eso, el agente redacta el guión completo en 4 columnas listo para grabar en 30 segundos.
 
 ## The 4-Column Script Structure
 

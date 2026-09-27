@@ -7,6 +7,12 @@ description: "Build 6-10 slide Instagram carousels in portrait 4:5 ratio (1080x1
 
 Carousels generate the highest save rates and dwell time on Instagram. This skill designs 6–10 slide visual storyboards optimized for swipe-through completion.
 
+## Flujo Guiado para Principiantes ("A prueba de torpes")
+Si el usuario dice "quiero hacer un carrusel", no le pidas que piense en diapositivas. Pregúntale solo:
+1. *"¿Qué proceso, lista de consejos o error común quieres explicar hoy? Cuéntamelo con tus palabras como si se lo explicaras a un cliente."*
+2. *"¿Qué estilo visual prefieres? (1: Fondo oscuro moderno con texto grande / 2: Fondo claro limpio / 3: Estilo diagrama o esquema)"*
+Con eso, el agente diseña las 7-8 diapositivas con los textos exactos y el gancho algorítmico listo.
+
 ## The 4:5 Portrait Mandate
 Always build in **4:5 aspect ratio (1080x1350 px)**. Square (1:1) wastes 25% of mobile screen real estate and decreases swipe conversion.
 

@@ -12,7 +12,13 @@ Drafts Instagram captions that stop the scroll, drive saves and shares, and inde
 - User has an idea or topic and needs a strong 1-line hook + formatted body + CTA.
 - User wants to optimize an existing caption for 2026 algorithm rules.
 
-## Step-by-Step Flow
+## Flujo Guiado para Principiantes ("A prueba de torpes")
+Si el usuario no especifica los detalles técnicos, hazle solo 2 preguntas rápidas:
+1. *"¿Para qué formato es este texto? (1: Reel / 2: Carrusel / 3: Foto normal)"*
+2. *"Cuéntame en 2 frases con tus palabras: ¿De qué va el tema y qué quieres que haga la persona al final (que te escriba por privado o que se lo guarde)?"*
+Con solo eso, el agente construye el caption profesional completo.
+
+## Step-by-Step Flow (Técnico)
 
 1. **Voice & Story Bank Check:**
    - Read `../../references/voice-profile.md`. If `filled: yes`, adopt the creator's rhythm and signature phrases.
